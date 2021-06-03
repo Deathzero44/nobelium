@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Deathzero',
+  title: 'SunLuning Blog',
+  author: 'Sunluning',
   email: 'deathzero44@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://nobelium2.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
