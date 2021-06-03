@@ -2,7 +2,7 @@ const BLOG = {
   title: 'SunLuning Blog',
   author: 'Sunluning',
   email: 'deathzero44@gmail.com',
-  link: 'https://nobelium2.vercel.app/',
+  link: 'https://nobelium.vercel.app/',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
